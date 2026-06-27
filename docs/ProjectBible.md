@@ -22,6 +22,32 @@ Battle Plans should become the first place an officer opens during a Territory B
 
 ---
 
+# Product Principles
+
+Battle Plans is guided by the following principles:
+
+1. Officer First
+Every feature should reduce officer workload.
+
+2. One Screen Rule
+An officer should understand the current Territory Battle within 30 seconds.
+
+3. Execution Over Planning
+The strategy belongs to the officers.
+Battle Plans exists to help execute it.
+
+4. Support, Don't Replace
+The application provides information and recommendations but never removes officer control.
+
+5. Mobile First
+The primary experience is designed for mobile devices.
+
+6. Minimise Clicks
+Common officer tasks should require as few interactions as possible.
+
+7. Real Workflow
+Features are built around how officers actually run Territory Battles, not around how the game presents them.
+
 # 3. Core Principles
 
 Battle Plans follows seven core principles.
