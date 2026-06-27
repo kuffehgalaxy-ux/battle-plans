@@ -16,3 +16,31 @@ Reduce the amount of time officers spend gathering information, allowing them to
 - Actionable Information
 - Mobile First
 - Keep It Simple
+
+## Product Goals
+
+Battle Plans exists to help officers answer three questions:
+
+1. What is happening?
+2. What should we do?
+3. Who still needs to act?
+
+If a feature does not help answer one of these questions, it should be reconsidered before being added.
+
+## Project Team
+
+### Product Owner
+Guild Leader / Officer
+
+Responsible for:
+- Product vision
+- Prioritisation
+- User testing
+
+### Technical Lead
+
+Responsible for:
+- Architecture
+- Development
+- UX
+- Documentation
