@@ -1,95 +1,376 @@
-# Battle Plans
+# Battle Plans - Project Bible
 
-## Vision
+> **Plan. Track. Command.**
 
-Battle Plans is an intelligent Territory Battle tracker designed to help Star Wars: Galaxy of Heroes officers plan, monitor and complete Territory Battles with less effort.
+---
 
-## Mission
+# 1. Vision
+
+Battle Plans is an intelligent command centre for **Star Wars: Galaxy of Heroes** guild officers.
+
+Its purpose is to simplify Territory Battle management by bringing planning, tracking, communication and decision making into a single application.
+
+Rather than requiring officers to constantly switch between the game, Discord, spreadsheets and bots, Battle Plans provides one place to understand the guild's current situation and decide what action to take.
+
+---
+
+# 2. Mission
 
 Reduce the amount of time officers spend gathering information, allowing them to focus on making decisions and leading their guild.
 
-## Core Principles
+Battle Plans should become the first place an officer opens during a Territory Battle.
 
-- Officer First
-- Plan vs Reality
-- Reduce Clicks
-- Actionable Information
-- Mobile First
-- Keep It Simple
+---
 
-## Product Goals
+# 3. Core Principles
 
-Battle Plans exists to help officers answer three questions:
+Battle Plans follows seven core principles.
 
-1. What is happening?
-2. What should we do?
-3. Who still needs to act?
+## Officer First
+
+Every feature must help officers perform their role more efficiently.
+
+## Plan vs Reality
+
+Always compare what the guild intended to do with what is actually happening.
+
+## Reduce Clicks
+
+If the app can save officers from navigating multiple screens or tools, it should.
+
+## Actionable Information
+
+Information should always lead naturally to an action.
+
+## Mobile First
+
+The application should feel natural on a phone while remaining fully functional on desktop.
+
+## Keep It Simple
+
+A smaller number of excellent features is preferable to a larger number of average ones.
+
+## Reduce Uncertainty
+
+Battle Plans should tell officers what they need to know rather than make them search for it.
+
+---
+
+# 4. Product Goals
+
+Battle Plans exists to help officers answer three questions.
+
+## What is happening?
+
+Current progress, stars, GP, combat missions, deployments and participation.
+
+## What should we do?
+
+Current strategy, deployment order and recommended actions.
+
+## Who still needs to act?
+
+Players requiring reminders or additional actions.
 
 If a feature does not help answer one of these questions, it should be reconsidered before being added.
 
-## In Scope
+---
 
-- Territory Battle planning
-- Territory Battle tracking
-- Officer command dashboard
-- Discord notifications
-- Guild planning
-- Battle Plans
-- Member activity tracking
-- Deployment analysis
-- Combat mission tracking
-- Phase reviews
+# 5. Product Scope
+
+## In Scope (Version 1)
+
+- Territory Battle Dashboard
+- Battle Planning
+- Officer Command Centre
+- Member Participation Tracking
+- Combat Mission Tracking
+- Deployment Tracking
+- Discord Notifications
+- Officer Reminders
+- Reports
+- Phase Review
 
 ## Future Scope
 
 - Territory Wars
-- Raid dashboard
-- Guild tickets
-- GL tracker
-- Capital Ship tracker
-- Guild achievements
-- Recruitment tools
+- Raid Dashboard
+- Guild Tickets
+- Galactic Legend Tracker
+- Capital Ship Tracker
+- Guild Achievements
+- Recruitment Tools
+- Guild Analytics
 
 ## Out of Scope
 
-- Playing the game
-- Mod management
-- Roster optimisation
-- Character farming
+- Playing SWGOH
+- Mod Management
+- Farming Guides
+- Roster Optimisation
+- Character Management
 
-- Battle Plans follows five design principles.
+---
+
+# 6. Design Philosophy
+
+Battle Plans follows five design principles.
 
 1. Mobile First
 2. Officer First
-3. Information before decoration
-4. Fewer clicks than SWGOH
-5. Every screen must answer a question
+3. Information before Decoration
+4. Fewer Clicks than SWGOH
+5. Every Screen Answers a Question
 
-## Definition of Done
+---
 
-A feature is considered complete when it satisfies all of the following:
+# 7. User Interface Principles
+
+Every Battle Plans screen should follow the same structure.
+
+## Status
+
+What is happening?
+
+## Attention
+
+What requires officer attention?
+
+## Action
+
+What should happen next?
+
+## Detail
+
+Additional information for officers who wish to investigate further.
+
+---
+
+# 8. Information Hierarchy
+
+Battle Plans follows a progressive disclosure approach.
+
+## At a Glance
+
+The most important information should be visible immediately.
+
+## Quick Scroll
+
+Supporting information should be available with minimal scrolling.
+
+## Deep Dive
+
+Detailed reports and member-level information should only appear when requested.
+
+The goal is to minimise cognitive load while ensuring officers always know where to find more information.
+
+---
+
+# 9. User Personas
+
+## Guild Leader
+
+Needs strategic visibility across the entire guild.
+
+Responsible for planning and overall performance.
+
+---
+
+## Officer
+
+Needs actionable information.
+
+Responsible for monitoring progress, issuing orders and helping members complete objectives.
+
+---
+
+## Guild Member
+
+Needs simple instructions.
+
+Responsible for completing assigned actions.
+
+---
+
+# 10. Officer Workflow
+
+```
+Login
+    ↓
+Command Centre
+    ↓
+Officer Inbox
+    ↓
+Review Battle Plan
+    ↓
+Issue Orders
+    ↓
+Monitor Progress
+    ↓
+Review Phase
+    ↓
+Prepare Next Phase
+```
+
+---
+
+# 11. Navigation
+
+```
+🏠 Command Centre
+
+⚔ Territory Battle
+
+📋 Battle Plans
+
+👥 Guild
+
+📊 Reports
+
+📥 Officer Inbox
+
+⚙ Settings
+```
+
+---
+
+# 12. Minimum Viable Product (MVP)
+
+Version One will include:
+
+- Command Centre
+- Territory Battle Dashboard
+- Battle Plans
+- Phase Tracking
+- Member Status
+- Officer Inbox
+- Discord Orders
+- Discord Reminders
+- Phase Reports
+
+---
+
+# 13. Definition of Done
+
+A feature is considered complete when it:
 
 - Solves a real officer problem.
-- Works well on mobile devices.
-- Reduces clicks compared to the game.
-- Can be understood in under 10 seconds.
+- Works well on mobile.
+- Requires fewer clicks than SWGOH.
+- Can be understood within ten seconds.
 - Supports future expansion.
 - Is documented.
-- Includes appropriate testing before release.
-## Project Team
+- Has been tested.
 
-### Product Owner
-Guild Leader / Officer
+---
+
+# 14. Success Metrics
+
+Battle Plans will be considered successful if it:
+
+- Reduces officer workload.
+- Reduces time spent opening the game.
+- Replaces multiple officer tools.
+- Keeps guilds on their Battle Plan.
+- Reduces manual reminders.
+- Makes Territory Battles easier to manage.
+
+---
+
+# 15. Project Team
+
+## Product Owner
 
 Responsible for:
-- Product vision
+
+- Product Vision
 - Prioritisation
-- User testing
+- Testing
+- User Feedback
 
-### Technical Lead
+---
+
+## Technical Lead
 
 Responsible for:
+
 - Architecture
 - Development
-- UX
+- UX Design
 - Documentation
+
+---
+
+# 16. Version Roadmap
+
+```
+v0.1
+Foundation
+    ↓
+v0.2
+UI Design
+    ↓
+v0.3
+Interactive Prototype
+    ↓
+v0.4
+Discord Integration
+    ↓
+v0.5
+Alpha Testing
+    ↓
+v1.0
+GreyForceHeroes completes an entire Territory Battle using Battle Plans as its primary officer tool.
+    ↓
+v2.0
+Public Release
+```
+
+---
+
+# 17. North Star
+
+Battle Plans should become the first application an officer opens during a Territory Battle.
+
+An officer should be able to understand the current situation, decide what needs to happen next and communicate those instructions without opening the game simply to gather information.
+
+---
+
+# 18. Product Philosophy
+
+Battle Plans is not intended to replace Star Wars: Galaxy of Heroes.
+
+Players will always play the game.
+
+Battle Plans replaces the administrative work surrounding the game.
+
+It transforms information into decisions.
+
+Instead of asking:
+
+> "What is happening?"
+
+It should answer:
+
+> "Here's what's happening, here's what needs attention, and here's what you should do next."
+
+---
+
+# 19. Future Vision
+
+Battle Plans begins as a Territory Battle assistant.
+
+Its long-term vision is to become the complete operating system for SWGOH guild officers.
+
+Supporting:
+
+- Territory Battles
+- Territory Wars
+- Raids
+- Guild Administration
+- Officer Collaboration
+- Strategic Planning
+
+One application.
+
+One command centre.
