@@ -80,3 +80,28 @@ Officer publishes updates.
 ↓
 
 Next phase created automatically.
+
+
+## Mid-Phase Review
+
+This occurs multiple times during each Territory Battle phase.
+
+The objective is to identify members who require follow-up.
+
+Current Process
+
+- Update manual spreadsheet
+- Check who has:
+  - No Action
+  - Combat Only
+  - Deployment Only
+- Send Discord reminders
+- Re-check GP progress
+
+Battle Plans Process
+
+- Open Action Board
+- Members automatically grouped by activity
+- One-click reminders
+- GP impact shown
+- Recommended follow-up generated automatically
