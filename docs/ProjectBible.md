@@ -1,4 +1,4 @@
-9# Battle Plans - Project Bible
+# Battle Plans - Project Bible
 
 > **Plan. Track. Command.**
 
@@ -272,6 +272,43 @@ Every update should record:
 - Summary of changes
 
 This ensures all officers are working from the same plan.
+
+## Publishing
+
+Battle Plans support two publication types.
+
+### Officer Plan
+
+A complete operational briefing published to the officer Discord channel.
+
+Includes:
+
+- Current Battle Plan
+- Objectives
+- Officer Notes
+- Version Number
+- Timestamp
+- Author
+
+Purpose:
+
+Maintain a permanent operational record and ensure all officers work from the same strategy.
+
+---
+
+### Member Orders
+
+A simplified version of the Battle Plan published to the member orders channel.
+
+Includes:
+
+- Current Objectives
+- Deployment Instructions
+- Combat Mission Instructions
+
+Purpose:
+
+Provide members with clear, concise instructions without exposing officer planning discussions.
 
 ---
 
