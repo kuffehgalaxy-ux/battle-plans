@@ -27,6 +27,44 @@ Battle Plans exists to help officers answer three questions:
 
 If a feature does not help answer one of these questions, it should be reconsidered before being added.
 
+## In Scope
+
+- Territory Battle planning
+- Territory Battle tracking
+- Officer command dashboard
+- Discord notifications
+- Guild planning
+- Battle Plans
+- Member activity tracking
+- Deployment analysis
+- Combat mission tracking
+- Phase reviews
+
+## Future Scope
+
+- Territory Wars
+- Raid dashboard
+- Guild tickets
+- GL tracker
+- Capital Ship tracker
+- Guild achievements
+- Recruitment tools
+
+## Out of Scope
+
+- Playing the game
+- Mod management
+- Roster optimisation
+- Character farming
+
+- Battle Plans follows five design principles.
+
+1. Mobile First
+2. Officer First
+3. Information before decoration
+4. Fewer clicks than SWGOH
+5. Every screen must answer a question
+
 ## Project Team
 
 ### Product Owner
