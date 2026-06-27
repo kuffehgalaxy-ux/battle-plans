@@ -398,3 +398,21 @@ Supporting:
 One application.
 
 One command centre.
+
+
+# 20. Product Philosophy
+
+Battle Plans exists to reduce the workload of guild officers.
+
+The application should answer four questions within seconds:
+
+1. What is happening?
+2. What needs attention?
+3. What should happen next?
+4. Who still needs to act?
+
+Every screen should recommend an action whenever possible.
+
+Battle Plans should reduce the number of clicks, context switching and manual Discord messages required to successfully manage guild events.
+
+If a feature does not help an officer make a better decision faster, it should be reconsidered.
