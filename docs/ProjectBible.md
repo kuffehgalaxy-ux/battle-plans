@@ -524,4 +524,20 @@ The interface should feel clean, calm and professional.
 
 Star Wars should be felt through the design language rather than through obvious branding or artwork.
 
+# Officer Assist
 
+Battle Plans is designed to support officer decision making, not replace it.
+
+Officer Assist provides contextual recommendations based on the current Territory Battle state.
+
+Recommendations are always optional and never automatically execute actions.
+
+Officer Assist Modes:
+
+- Training
+- Standard
+- Minimal
+
+Guilds may change this setting at any time.
+
+The Officer remains in control of all decisions and communications.
