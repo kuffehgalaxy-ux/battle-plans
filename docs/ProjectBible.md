@@ -250,6 +250,31 @@ Version One will include:
 
 ---
 
+# Battle Plans
+
+Battle Plans are the operational strategy for a Territory Battle phase.
+
+A Battle Plan defines:
+
+- Priority objectives
+- Deployment order
+- Combat mission expectations
+- Officer notes
+- Discord orders
+
+Battle Plans should be versioned.
+
+Every update should record:
+
+- Version number
+- Author
+- Timestamp
+- Summary of changes
+
+This ensures all officers are working from the same plan.
+
+---
+
 # 13. Definition of Done
 
 A feature is considered complete when it:
