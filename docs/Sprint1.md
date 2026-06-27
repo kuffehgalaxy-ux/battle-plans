@@ -1,19 +1,20 @@
-# Sprint 1
+## Sprint Goal
 
-## Goal
-
-Produce the first clickable prototype of Battle Plans.
+Design the complete Version 1 user experience before writing production code.
 
 ---
 
 ## Tasks
 
 - [x] Create repository
-- [x] Create Project Bible
-- [ ] Create README
-- [ ] Create Changelog
-- [ ] Create Decision Log
-- [ ] Design Command Centre
+- [x] Create documentation
+- [x] Define product vision
+- [x] Define design language
+- [x] Create Command Centre concept
+
+- [ ] Design Territory Battle Dashboard
 - [ ] Design Battle Plans
 - [ ] Design Officer Inbox
-- [ ] Create Interactive Prototype
+- [ ] Design Member Details
+- [ ] Create UI Design Pack
+- [ ] Build Interactive Prototype
