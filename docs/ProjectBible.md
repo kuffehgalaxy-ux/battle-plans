@@ -416,3 +416,22 @@ Every screen should recommend an action whenever possible.
 Battle Plans should reduce the number of clicks, context switching and manual Discord messages required to successfully manage guild events.
 
 If a feature does not help an officer make a better decision faster, it should be reconsidered.
+
+# 21. Design Language
+
+Battle Plans should feel like a professional command console.
+
+The interface should take inspiration from military operations centres and Star Wars command bridges rather than the game's user interface.
+
+## Visual Identity
+
+- Dark graphite backgrounds
+- Metallic silver panels
+- Holographic blue highlights
+- Republic green success indicators
+- Amber warning indicators
+- Imperial red critical alerts
+
+The interface should feel clean, calm and professional.
+
+Star Wars should be felt through the design language rather than through obvious branding or artwork.
