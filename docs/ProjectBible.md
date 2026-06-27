@@ -334,6 +334,30 @@ Battle Plans should become the first application an officer opens during a Terri
 
 An officer should be able to understand the current situation, decide what needs to happen next and communicate those instructions without opening the game simply to gather information.
 
+# Product Values
+
+Battle Plans should always strive to be:
+
+## Clear
+
+Information should be understandable within seconds.
+
+## Reliable
+
+Officers should be able to trust the information presented.
+
+## Actionable
+
+Every important piece of information should naturally lead to an action.
+
+## Respectful
+
+The application should assist officers and members without creating unnecessary pressure or noise.
+
+## Expandable
+
+Every feature should be designed so that future events such as Territory Wars, Raids and Guild Management can be added without redesigning the application.
+
 ---
 
 # 18. Product Philosophy
