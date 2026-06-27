@@ -1,4 +1,4 @@
-# Battle Plans - Project Bible
+9# Battle Plans - Project Bible
 
 > **Plan. Track. Command.**
 
@@ -383,6 +383,13 @@ The application should assist officers and members without creating unnecessary 
 
 Every feature should be designed so that future events such as Territory Wars, Raids and Guild Management can be added without redesigning the application.
 
+# North Star Goal
+
+Battle Plans should become the first application a Guild Leader or Officer opens during a Territory Battle.
+
+An officer should be able to understand the current state of the guild, make decisions, communicate orders and identify outstanding actions without opening Star Wars: Galaxy of Heroes.
+
+Every feature should move the product closer to this goal.
 ---
 
 # 18. Product Philosophy
@@ -460,3 +467,5 @@ The interface should take inspiration from military operations centres and Star 
 The interface should feel clean, calm and professional.
 
 Star Wars should be felt through the design language rather than through obvious branding or artwork.
+
+
