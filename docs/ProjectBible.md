@@ -65,6 +65,17 @@ If a feature does not help answer one of these questions, it should be reconside
 4. Fewer clicks than SWGOH
 5. Every screen must answer a question
 
+## Definition of Done
+
+A feature is considered complete when it satisfies all of the following:
+
+- Solves a real officer problem.
+- Works well on mobile devices.
+- Reduces clicks compared to the game.
+- Can be understood in under 10 seconds.
+- Supports future expansion.
+- Is documented.
+- Includes appropriate testing before release.
 ## Project Team
 
 ### Product Owner
