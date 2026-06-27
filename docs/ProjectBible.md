@@ -447,6 +447,25 @@ It should answer:
 
 > "Here's what's happening, here's what needs attention, and here's what you should do next."
 
+# Product Motto
+
+## Plan. Publish. Command.
+
+These three words describe the core workflow of Battle Plans.
+
+### Plan
+
+Create the strategy for the current Territory Battle phase.
+
+### Publish
+
+Communicate clear orders to officers and guild members through Discord.
+
+### Command
+
+Monitor progress, identify issues and guide the guild to success.
+
+Every feature should support at least one of these three pillars.
 ---
 
 # 19. Future Vision
